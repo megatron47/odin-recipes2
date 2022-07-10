@@ -1,1 +1,3 @@
-# odin-recipes2
+# odin-recipes2 
+Practice HTML and Command Line
+Here we go again!
